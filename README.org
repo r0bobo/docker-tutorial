@@ -1,4 +1,4 @@
 #+TITLE: Docker Tutorial
 
 * What is this:
-This is my repo for the official docker tutorial
+This is my repo for the official [[https://docs.docker.com/get-started/][docker guide]]
